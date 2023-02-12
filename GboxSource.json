@@ -14,7 +14,6 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
-            "appUpdateTime": "2022-12-25T13:00:00+0800",
             "appName": "GBox",
             "appVersion": "3.7.3",
             "appImage": "https://gbox.pub/Public/appicons/GBox.png",
