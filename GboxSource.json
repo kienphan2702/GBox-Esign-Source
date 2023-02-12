@@ -22,5 +22,16 @@
             "appDescription": "GBox 3.7.3"
         },
 
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+	    "appUpdateTime": "2023-02-12T08:00:00",
+            "appName": "Messenger",
+            "appVersion": "392.0",
+            "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/messenger.png",
+            "appPackage": "https://github.com/kienphan2702/GBox-Esign-Source/raw/main/App/Messenger%202%20392.0.ipa",
+            "appDescription": "Xoá quảng cáo, chặn seen, chặn xem story"
+        },
+
     ]
 }
