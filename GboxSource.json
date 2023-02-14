@@ -70,6 +70,17 @@
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
 	    "appUpdateTime": "2023-02-12T08:00:00",
+            "appName": "TeraBox",
+            "appVersion": "3.7.7",
+            "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/terabox.png",
+            "appPackage": "https://www.dl.dropboxusercontent.com/s/7jk1h9m4cq38i1a/TeraBox.ipa?dl=0",
+            "appDescription": "Mod PREMIUM"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+	    "appUpdateTime": "2023-02-12T08:00:00",
             "appName": "VeboTV",
             "appVersion": "1.2",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/vebotv.png",
