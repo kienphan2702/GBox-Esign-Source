@@ -7,9 +7,6 @@
     "sourceImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/source.png",
     "sourceUpdateTime": "2023-01-25T17:00:00+0800",
     "sourceDescription": "Kiên Phan",
-    "appCategories": [
-        "Ứng Dụng"
-    ],
     "appRepositories": [
         {
             "appType": "SELF_SIGN",
