@@ -1,6 +1,6 @@
 {
     "version": "1.0",
-    "sourceName": "App by PTK",
+    "sourceName": "Kiên Phan",
     "sourceAuthor": "PTK",
     "sourceExportEnable": true,
     "sourceLinkTitle": "Trang chủ",
@@ -8,7 +8,7 @@
     "sourceUpdateTime": "2023-01-25T17:00:00+0800",
     "sourceDescription": "Source by PTK",
     "appCategories": [
-        "Công cụ"
+        "Công Cụ"
     ],
     "appRepositories": [
         {
