@@ -17,9 +17,15 @@
 	"downloadURL": "https://www.dl.dropboxusercontent.com/s/1jj6u0sejvodg85/Messenger%202%20392.0.ipa?dl=0",
 	"iconURL": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/messenger.png",
 	"versionDescription": "Cài song song, xoá quảng cáo, chặn seen, chặn xem story"
-	"size": 52755723,
 },
 
+{
+	"name": "ESign",
+	"version": "4.7.5",
+	"downloadURL": "https://www.dl.dropboxusercontent.com/s/5y6mhgo0cm6s82w/ESign%204.7.5.ipa?dl=0",
+	"iconURL": "https://esign.yyyue.xyz/ESignLogo200.png",
+	"versionDescription": "ESign ver 4.7.5"
+},
 
 ]
 }
