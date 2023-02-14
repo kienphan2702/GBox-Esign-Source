@@ -59,6 +59,17 @@
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
 	    "appUpdateTime": "2023-02-12T08:00:00",
+            "appName": "Zing MP3",
+            "appVersion": "23.01.02",
+            "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/messenger.png",
+            "appPackage": "https://www.dl.dropboxusercontent.com/s/ww3x7onte7ltpzw/Zing%20MP3.ipa?dl=0",
+            "appDescription": "Mod VIP"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+	    "appUpdateTime": "2023-02-12T08:00:00",
             "appName": "VeboTV",
             "appVersion": "1.2",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/vebotv.png",
