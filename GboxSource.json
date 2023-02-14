@@ -26,6 +26,17 @@
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
 	    "appUpdateTime": "2023-02-12T08:00:00",
+            "appName": "ESign",
+            "appVersion": "4.7.5",
+            "appImage": "https://esign.yyyue.xyz/ESignLogo200.png",
+            "appPackage": "https://www.dl.dropboxusercontent.com/s/5y6mhgo0cm6s82w/ESign%204.7.5.ipa?dl=0",
+            "appDescription": "ESign ver 4.7.5"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+	    "appUpdateTime": "2023-02-12T08:00:00",
             "appName": "Messenger",
             "appVersion": "392.0",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/messenger.png",
