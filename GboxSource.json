@@ -58,6 +58,16 @@
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
 	    "appUpdateTime": "2023-02-12T08:00:00",
+            "appName": "Speedtest",
+            "appVersion": "4.5.1",
+            "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/speedtest.png",
+            "appPackage": "https://www.dl.dropboxusercontent.com/s/x3m0866tmnapnoq/Speedtest.ipa?dl=0",
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+	    "appUpdateTime": "2023-02-12T08:00:00",
             "appName": "Flappy Bird",
             "appVersion": "1.0",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/FlappyBird.png",
