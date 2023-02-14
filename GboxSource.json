@@ -44,5 +44,15 @@
             "appDescription": "Xoá quảng cáo, chặn seen, chặn xem story"
         },
 
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+	    "appUpdateTime": "2023-02-12T08:00:00",
+            "appName": "Flappy Bird",
+            "appVersion": "1.0",
+            "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/FlappyBird.png",
+            "appPackage": "https://www.dl.dropboxusercontent.com/s/5fet11sf8y6555p/FlappyBird.ipa?dl=0",
+        },
+
     ]
 }
