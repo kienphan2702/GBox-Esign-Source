@@ -25,9 +25,8 @@
 	    "appUpdateTime": "2023-02-12T08:00:00",
             "appName": "ESign",
             "appVersion": "4.7.5",
-            "appImage": "https://esign.yyyue.xyz/ESignLogo200.png",
-            "appPackage": "https://pan.yyyue.xyz/d/esign/esign_4.7.5_unsign.ipa",
-            "appDescription": "ESign ver 4.7.5"
+            "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/esign.png",
+            "appPackage": "https://www.dl.dropboxusercontent.com/s/7c3tl5znrl5y3g8/ESign.ipa?dl=0",
         },
 
         {
