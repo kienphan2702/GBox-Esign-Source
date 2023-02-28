@@ -44,9 +44,9 @@
             "appCateIndex": 0,
 	    "appUpdateTime": "2023-02-12T08:00:00",
             "appName": "Messenger",
-            "appVersion": "397.0",
+            "appVersion": "396.1",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/messenger.png",
-            "appPackage": "https://www.dl.dropboxusercontent.com/s/1jj6u0sejvodg85/Messenger.ipa?dl=0",
+            "appPackage": "https://www.dl.dropboxusercontent.com/s/s16oo1pt1xexhe7/Messenger.ipa?dl=0",
             "appDescription": "Xoá quảng cáo, chặn seen, chặn xem story"
         },
 
