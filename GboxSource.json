@@ -151,7 +151,7 @@
             "appName": "Asphalt 8+",
             "appVersion": "1.4.0",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/asphalt8%2B.png",
-            "appPackage": "https://www.dl.dropboxusercontent.com/s/7jk1h9m4cq38i1a/TeraBox.ipa?dl=0",
+            "appPackage": "https://www.dl.dropboxusercontent.com/s/20ti8psmxhuns6q/Asphalt%208%2B.ipa?dl=0",
             "appDescription": "Apple Arcade Version"
         },
 
@@ -163,7 +163,7 @@
             "appVersion": "8.1.1",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/cowabunga.png",
             "appPackage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/App/Cowabunga.ipa",
-            "appDescription": "iOS 14 - iOS 16.1.2"
+            "appDescription": "iOS 14 - iOS 16.1.2 (MacDirtyCow)"
         },
 
     ]
