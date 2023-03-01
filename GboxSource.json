@@ -144,5 +144,16 @@
             "appPackage": "https://www.dl.dropboxusercontent.com/s/5fet11sf8y6555p/FlappyBird.ipa?dl=0",
         },
 
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+	    "appUpdateTime": "2023-02-12T08:00:00",
+            "appName": "Asphalt 8+",
+            "appVersion": "1.4.0",
+            "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/asphalt8%2B.png",
+            "appPackage": "https://www.dl.dropboxusercontent.com/s/7jk1h9m4cq38i1a/TeraBox.ipa?dl=0",
+            "appDescription": "Apple Arcade Version"
+        },
+
     ]
 }
