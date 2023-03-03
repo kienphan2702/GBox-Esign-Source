@@ -13,6 +13,7 @@
 	"MacDirtyCow"
  ],
     "appRepositories": [
+	//Ứng dụng
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
@@ -149,6 +150,7 @@
             "appPackage": "https://www.dl.dropboxusercontent.com/s/5fet11sf8y6555p/FlappyBird.ipa?dl=0",
         },
 
+	//Games
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 1,
@@ -171,6 +173,7 @@
             "appDescription": "Mod Graphic"
         },
 
+	//MacDirtyCow
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 2,
