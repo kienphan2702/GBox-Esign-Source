@@ -173,6 +173,17 @@
             "appDescription": "Mod Graphic"
         },
 
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+	    "appUpdateTime": "2023-02-12T08:00:00",
+            "appName": "Angry Bird Transformer",
+            "appVersion": "2.19.0",
+            "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/AngryBirdTransformer.png",
+            "appPackage": "https://www.dl.dropboxusercontent.com/s/7ihav1jms3fjr2v/Angry%20Bird%20Transformer.ipa?dl=0",
+            "appDescription": "Large coin & Pig reward after each mission and Large Gems Achievement reward"
+        },
+
 	//MacDirtyCow
         {
             "appType": "SELF_SIGN",
