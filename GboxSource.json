@@ -159,6 +159,17 @@
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
 	    "appUpdateTime": "2023-02-12T08:00:00",
+            "appName": "GTA Vice City",
+            "appVersion": "1.5.6",
+            "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/gtavicecity.png",
+            "appPackage": "https://www.dl.dropboxusercontent.com/s/s1x32pj4z2vuf09/GTA%20Vice%20City.ipa?dl=0",
+            "appDescription": "Mod Graphic"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+	    "appUpdateTime": "2023-02-12T08:00:00",
             "appName": "Cowabunga",
             "appVersion": "8.1.1",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/cowabunga.png",
