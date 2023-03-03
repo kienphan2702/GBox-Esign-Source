@@ -10,6 +10,8 @@
     "appCategories": [
         "Ứng Dụng",
         "Games"
+ ],
+    "appRepositories": [
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
