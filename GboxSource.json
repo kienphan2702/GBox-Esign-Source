@@ -166,5 +166,16 @@
             "appDescription": "iOS 14 - iOS 16.1.2 (MacDirtyCow)"
         },
 
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+	    "appUpdateTime": "2023-02-12T08:00:00",
+            "appName": "Filza",
+            "appVersion": "4.0.0",
+            "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/filza.png",
+            "appPackage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/App/Filza.ipa",
+            "appDescription": "iOS 14 - iOS 16.1.2 (MacDirtyCow)"
+        },
+
     ]
 }
