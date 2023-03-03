@@ -13,7 +13,6 @@
 	"MacDirtyCow"
  ],
     "appRepositories": [
-	//Ứng dụng
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
@@ -150,7 +149,6 @@
             "appPackage": "https://www.dl.dropboxusercontent.com/s/5fet11sf8y6555p/FlappyBird.ipa?dl=0",
         },
 
-	//Games
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 1,
@@ -184,7 +182,6 @@
             "appDescription": "Large coin & Pig reward after each mission and Large Gems Achievement reward"
         },
 
-	//MacDirtyCow
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 2,
