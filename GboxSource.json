@@ -175,6 +175,17 @@
             "appType": "SELF_SIGN",
             "appCateIndex": 1,
 	    "appUpdateTime": "2023-02-12T08:00:00",
+            "appName": "SimCity BuildIt",
+            "appVersion": "1.45.1",
+            "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/simcitybuildit.png",
+            "appPackage": "https://www.dl.dropboxusercontent.com/s/7cy5asd0527ooa1/SimCity%20BuildIt.ipa?dl=0",
+            "appDescription": "Coins increase over use"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+	    "appUpdateTime": "2023-02-12T08:00:00",
             "appName": "Angry Bird Transformer",
             "appVersion": "2.19.0",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/AngryBirdTransformer.png",
