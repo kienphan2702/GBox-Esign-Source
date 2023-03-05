@@ -12,9 +12,7 @@
         "Games",
 	"MacDirtyCow"
  ],
-    "appRepositories": [
-
-	//Ứng dụng
+    "appRepositories": [	
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
@@ -141,7 +139,6 @@
             "appPackage": "https://www.dl.dropboxusercontent.com/s/s8wv5d89zvzzolr/OldRoll.ipa?dl=0",
         },
 
-	//Games
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 1,
@@ -185,7 +182,6 @@
             "appDescription": "Large coin & Pig reward after each mission and Large Gems Achievement reward"
         },
 
-	//MacDirtyCow
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 2,
