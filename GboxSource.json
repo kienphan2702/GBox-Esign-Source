@@ -141,6 +141,16 @@
 
         {
             "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+	    "appUpdateTime": "2023-02-12T08:00:00",
+            "appName": "Prequel",
+            "appVersion": "2.34.2",
+            "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/prequel.png",
+            "appPackage": "https://www.dl.dropboxusercontent.com/s/poljzq3a1p1vpll/Prequel.ipa?dl=0",
+        },
+
+        {
+            "appType": "SELF_SIGN",
             "appCateIndex": 1,
 	    "appUpdateTime": "2023-02-12T08:00:00",
             "appName": "Flappy Bird",
