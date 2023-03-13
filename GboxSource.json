@@ -143,6 +143,16 @@
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
 	    "appUpdateTime": "2023-02-12T08:00:00",
+            "appName": "Dazz Cam",
+            "appVersion": "2.6.2",
+            "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/dazzcam.png",
+            "appPackage": "https://www.dl.dropboxusercontent.com/s/by9s2j6g1urmapo/DazzCam.ipa?dl=0",
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+	    "appUpdateTime": "2023-02-12T08:00:00",
             "appName": "Prequel",
             "appVersion": "2.34.2",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/prequel.png",
