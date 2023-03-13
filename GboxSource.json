@@ -11,6 +11,7 @@
         "Application",
         "Games",
 	"MacDirtyCow"
+	"Camera"
  ],
     "appRepositories": [	
         {
@@ -131,7 +132,7 @@
 
         {
             "appType": "SELF_SIGN",
-            "appCateIndex": 0,
+            "appCateIndex": 3,
 	    "appUpdateTime": "2023-02-12T08:00:00",
             "appName": "OldRoll",
             "appVersion": "4.7.9",
@@ -141,7 +142,7 @@
 
         {
             "appType": "SELF_SIGN",
-            "appCateIndex": 0,
+            "appCateIndex": 3,
 	    "appUpdateTime": "2023-02-12T08:00:00",
             "appName": "Dazz Cam",
             "appVersion": "2.6.2",
@@ -151,7 +152,7 @@
 
         {
             "appType": "SELF_SIGN",
-            "appCateIndex": 0,
+            "appCateIndex": 3,
 	    "appUpdateTime": "2023-02-12T08:00:00",
             "appName": "Prequel",
             "appVersion": "2.34.2",
