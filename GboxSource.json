@@ -9,9 +9,9 @@
     "sourceDescription": "Kiên Phan",
     "appCategories": [
         "Application",
-        "Games",
-	"MacDirtyCow",
 	"Camera"
+        "Games",
+	"MacDirtyCow"
  ],
     "appRepositories": [	
         {
@@ -132,7 +132,7 @@
 
         {
             "appType": "SELF_SIGN",
-            "appCateIndex": 3,
+            "appCateIndex": 1,
 	    "appUpdateTime": "2023-02-12T08:00:00",
             "appName": "OldRoll",
             "appVersion": "4.7.9",
@@ -142,7 +142,7 @@
 
         {
             "appType": "SELF_SIGN",
-            "appCateIndex": 3,
+            "appCateIndex": 1,
 	    "appUpdateTime": "2023-02-12T08:00:00",
             "appName": "Dazz Cam",
             "appVersion": "2.6.2",
@@ -152,7 +152,7 @@
 
         {
             "appType": "SELF_SIGN",
-            "appCateIndex": 3,
+            "appCateIndex": 1,
 	    "appUpdateTime": "2023-02-12T08:00:00",
             "appName": "Prequel",
             "appVersion": "2.34.2",
@@ -163,7 +163,7 @@
 
         {
             "appType": "SELF_SIGN",
-            "appCateIndex": 1,
+            "appCateIndex": 2,
 	    "appUpdateTime": "2023-02-12T08:00:00",
             "appName": "Flappy Bird",
             "appVersion": "1.0",
@@ -173,7 +173,7 @@
 
         {
             "appType": "SELF_SIGN",
-            "appCateIndex": 1,
+            "appCateIndex": 2,
 	    "appUpdateTime": "2023-02-12T08:00:00",
             "appName": "Asphalt 8+",
             "appVersion": "1.4.0",
@@ -184,7 +184,7 @@
 
         {
             "appType": "SELF_SIGN",
-            "appCateIndex": 1,
+            "appCateIndex": 2,
 	    "appUpdateTime": "2023-02-12T08:00:00",
             "appName": "Asphalt 8",
             "appVersion": "7.0.0",
@@ -195,7 +195,7 @@
 
         {
             "appType": "SELF_SIGN",
-            "appCateIndex": 1,
+            "appCateIndex": 2,
 	    "appUpdateTime": "2023-02-12T08:00:00",
             "appName": "GTA Vice City",
             "appVersion": "1.5.6",
@@ -206,7 +206,7 @@
 
         {
             "appType": "SELF_SIGN",
-            "appCateIndex": 1,
+            "appCateIndex": 2,
 	    "appUpdateTime": "2023-02-12T08:00:00",
             "appName": "SimCity BuildIt",
             "appVersion": "1.45.1",
@@ -217,7 +217,7 @@
 
         {
             "appType": "SELF_SIGN",
-            "appCateIndex": 1,
+            "appCateIndex": 2,
 	    "appUpdateTime": "2023-02-12T08:00:00",
             "appName": "Angry Bird Transformer",
             "appVersion": "2.19.0",
@@ -228,7 +228,7 @@
 
         {
             "appType": "SELF_SIGN",
-            "appCateIndex": 2,
+            "appCateIndex": 3,
 	    "appUpdateTime": "2023-02-12T08:00:00",
             "appName": "Cowabunga",
             "appVersion": "8.1.2",
@@ -239,7 +239,7 @@
 
         {
             "appType": "SELF_SIGN",
-            "appCateIndex": 2,
+            "appCateIndex": 3,
 	    "appUpdateTime": "2023-02-12T08:00:00",
             "appName": "Filza",
             "appVersion": "4.0.0",
