@@ -164,6 +164,36 @@
             "appType": "SELF_SIGN",
             "appCateIndex": 1,
 	    "appUpdateTime": "2023-02-12T08:00:00",
+            "appName": "Analog Budapest",
+            "appVersion": "1.0.992",
+            "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/analogjeju.png",
+            "appPackage": "https://dl.dropboxusercontent.com/s/1eqmuxc93n5nx6a/Analog%20Budapest.ipa?dl=0",
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+	    "appUpdateTime": "2023-02-12T08:00:00",
+            "appName": "Analog Jeju",
+            "appVersion": "1.0.992",
+            "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/analogbudapest.png",
+            "appPackage": "https://dl.dropboxusercontent.com/s/56n2ibsiq95giyl/Analog%20Jeju.ipa?dl=0",
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+	    "appUpdateTime": "2023-02-12T08:00:00",
+            "appName": "Analog London",
+            "appVersion": "1.0.992",
+            "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/analoglondon.png",
+            "appPackage": "https://dl.dropboxusercontent.com/s/kejtyg8n4js8q3b/Analog%20London.ipa?dl=0",
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+	    "appUpdateTime": "2023-02-12T08:00:00",
             "appName": "OldRoll",
             "appVersion": "4.7.9",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/oldroll.png",
