@@ -389,6 +389,16 @@
             "appType": "SELF_SIGN",
             "appCateIndex": 2,
 	    "appUpdateTime": "2023-02-12T08:00:00",
+            "appName": "Plants vs. Zombies™ 2",
+            "appVersion": "10.4.1",
+            "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1f/5a/ab/1f5aab34-34bd-7318-403b-d45c4476702e/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.png",
+            "appPackage": "https://dl.dropboxusercontent.com/s/l47s4jab8xu3qey/Plants%20vs.%20Zombies%202.ipa?dl=0",
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+	    "appUpdateTime": "2023-02-12T08:00:00",
             "appName": "Angry Bird Transformer",
             "appVersion": "2.19.0",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/AngryBirdTransformer.png",
