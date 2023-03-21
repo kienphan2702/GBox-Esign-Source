@@ -132,6 +132,17 @@
 
         {
             "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+	    "appUpdateTime": "2023-02-12T08:00:00",
+            "appName": "iSTB",
+            "appVersion": "1.24.10",
+            "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/db/ac/16/dbac1659-c577-8e88-2b0a-7a1f62cd78d4/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+            "appPackage": "https://dl.dropboxusercontent.com/s/fm3guba63erufqk/iSTB.ipa?dl=0",
+        },
+
+
+        {
+            "appType": "SELF_SIGN",
             "appCateIndex": 1,
 	    "appUpdateTime": "2023-02-12T08:00:00",
             "appName": "Analog Acoustic",
