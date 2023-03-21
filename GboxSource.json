@@ -194,6 +194,56 @@
             "appType": "SELF_SIGN",
             "appCateIndex": 1,
 	    "appUpdateTime": "2023-02-12T08:00:00",
+            "appName": "Analog Paris",
+            "appVersion": "1.0.992",
+            "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/analogparis.png",
+            "appPackage": "https://dl.dropboxusercontent.com/s/zwb1lq7ir6xoowx/Analog%20Paris.ipa?dl=0",
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+	    "appUpdateTime": "2023-02-12T08:00:00",
+            "appName": "Analog Portland",
+            "appVersion": "1.0.992",
+            "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/analogportland.png",
+            "appPackage": "https://dl.dropboxusercontent.com/s/2q4bsgxs4vn0pys/Analog%20Portland.ipa?dl=0",
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+	    "appUpdateTime": "2023-02-12T08:00:00",
+            "appName": "Analog Seoul",
+            "appVersion": "1.0.992",
+            "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/analogseoul.png",
+            "appPackage": "https://dl.dropboxusercontent.com/s/zhlo54szjg4vje3/Analog%20Seoul.ipa?dl=0",
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+	    "appUpdateTime": "2023-02-12T08:00:00",
+            "appName": "Analog Tokyo",
+            "appVersion": "1.0.992",
+            "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/analogtokyo.png",
+            "appPackage": "https://dl.dropboxusercontent.com/s/ismlk1ymrgartkc/Analog%20Tokyo.ipa?dl=0",
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+	    "appUpdateTime": "2023-02-12T08:00:00",
+            "appName": "Analog Wedding",
+            "appVersion": "1.0.992",
+            "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/analogwedding.png",
+            "appPackage": "https://dl.dropboxusercontent.com/s/y2j3kt5tc6u9mho/Analog%20Wedding.ipa?dl=0",
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+	    "appUpdateTime": "2023-02-12T08:00:00",
             "appName": "OldRoll",
             "appVersion": "4.7.9",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/oldroll.png",
