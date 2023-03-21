@@ -134,6 +134,16 @@
             "appType": "SELF_SIGN",
             "appCateIndex": 1,
 	    "appUpdateTime": "2023-02-12T08:00:00",
+            "appName": "Analog Acoustic",
+            "appVersion": "1.0.96",
+            "appImage": "https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/a4/8b/2e/a48b2e58-f819-b885-30cc-46f55b9ff88d/AppIcon-0-1x_U007emarketing-0-85-220-10.png/512x512bb.jpg",
+            "appPackage": "https://www.dl.dropboxusercontent.com/s/s8wv5d89zvzzolr/OldRoll.ipa?dl=0",
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+	    "appUpdateTime": "2023-02-12T08:00:00",
             "appName": "OldRoll",
             "appVersion": "4.7.9",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/oldroll.png",
