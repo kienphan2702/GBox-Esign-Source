@@ -162,6 +162,16 @@
 
         {
             "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+	    "appUpdateTime": "2023-02-12T08:00:00",
+            "appName": "Oxford Deluxe (ODE and OTE)",
+            "appVersion": "13.2",
+            "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/71/db/6d/71db6d0b-0e70-88c4-6754-3ffb9bad37cd/ODEdeluxe-Icons-1x_U007emarketing-0-6-0-85-220.jpeg/512x512bb.png",
+            "appPackage": "https://dl.dropboxusercontent.com/s/4nxaewguwdpwba0/Oxford%20Deluxe%20%28ODE%20and%20OTE%29.ipa?dl=0",
+        },
+
+        {
+            "appType": "SELF_SIGN",
             "appCateIndex": 1,
 	    "appUpdateTime": "2023-02-12T08:00:00",
             "appName": "Analog Acoustic",
