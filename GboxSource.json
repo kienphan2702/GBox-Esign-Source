@@ -39,10 +39,10 @@
             "appCateIndex": 0,
 	    "appUpdateTime": "2023-02-12T08:00:00",
             "appName": "Facebook",
-            "appVersion": "402.0",
+            "appVersion": "407.1",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/facebook.png",
             "appPackage": "https://www.dl.dropboxusercontent.com/s/rysvktidpb5cpgr/Facebook.ipa?dl=0",
-            "appDescription": "No Ads by HaoICT ver 1.4.1"
+            "appDescription": "No Facebook Story Ads"
         },
 
         {
@@ -50,7 +50,7 @@
             "appCateIndex": 0,
 	    "appUpdateTime": "2023-02-12T08:00:00",
             "appName": "Messenger",
-            "appVersion": "397.0",
+            "appVersion": "401.0",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/messenger.png",
             "appPackage": "https://www.dl.dropboxusercontent.com/s/s16oo1pt1xexhe7/Messenger.ipa?dl=0",
             "appDescription": "Xoá quảng cáo, chặn seen, chặn xem story"
