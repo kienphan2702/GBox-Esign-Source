@@ -411,7 +411,7 @@
             "appCateIndex": 3,
 	    "appUpdateTime": "2023-02-12T08:00:00",
             "appName": "Cowabunga",
-            "appVersion": "10.0.3",
+            "appVersion": "10.1.1",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/cowabunga.png",
             "appPackage": "https://github.com/leminlimez/Cowabunga/releases/download/v10.0.3/Cowabunga.ipa",
             "appDescription": "iOS 14 - iOS 16.1.2 (MacDirtyCow)"
