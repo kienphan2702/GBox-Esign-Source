@@ -346,10 +346,10 @@
             "appCateIndex": 2,
 	    "appUpdateTime": "2023-02-12T08:00:00",
             "appName": "Asphalt 8+",
-            "appVersion": "1.4.0",
+            "appVersion": "1.6.0",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/asphalt8%2B.png",
             "appPackage": "https://www.dl.dropboxusercontent.com/s/20ti8psmxhuns6q/Asphalt%208%2B.ipa?dl=0",
-            "appDescription": "Apple Arcade Version"
+            "appDescription": "Ngắt mạng trước khi vào game"
         },
 
         {
