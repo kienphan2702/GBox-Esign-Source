@@ -72,7 +72,7 @@
             "appCateIndex": 0,
 	    "appUpdateTime": "2023-02-12T08:00:00",
             "appName": "BeReal",
-            "appVersion": "1.0.1",
+            "appVersion": "0.36.3",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/bereal.png",
             "appPackage": "https://dl.dropboxusercontent.com/s/iderrrr5vqjno4j/BeReal.ipa?dl=0",
             "appDescription": "UnHide BeReal"
