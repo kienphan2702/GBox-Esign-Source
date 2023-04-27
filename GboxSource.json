@@ -124,6 +124,17 @@
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
 	    "appUpdateTime": "2023-02-12T08:00:00",
+            "appName": "TiviWatch",
+            "appVersion": "1.0",
+            "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/tiviwatch.png",
+            "appPackage": "https://dl.dropboxusercontent.com/s/wp4ejzd0rj84prk/TiviWatch%20%28Auto%29.ipa?dl=0",
+            "appDescription": "Bản tự động chọn link"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+	    "appUpdateTime": "2023-02-12T08:00:00",
             "appName": "Speedtest",
             "appVersion": "4.5.1",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/speedtest.png",
