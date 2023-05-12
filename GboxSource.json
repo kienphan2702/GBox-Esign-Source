@@ -27,7 +27,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
-	    "appUpdateTime": "2023-02-12T08:00:00",
+	    "appUpdateTime": "2023-05-12T07:00:00+0000",
             "appName": "ESign",
             "appVersion": "4.7.8",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/esign.png",
@@ -37,7 +37,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
-	    "appUpdateTime": "2023-02-12T08:00:00",
+	    "appUpdateTime": "2023-05-12T07:00:00+0000",
             "appName": "Facebook",
             "appVersion": "407.1",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/facebook.png",
@@ -48,7 +48,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
-	    "appUpdateTime": "2023-02-12T08:00:00",
+	    "appUpdateTime": "2023-05-12T07:00:00+0000",
             "appName": "Messenger",
             "appVersion": "401.0",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/messenger.png",
@@ -59,7 +59,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
-	    "appUpdateTime": "2023-02-12T08:00:00",
+	    "appUpdateTime": "2023-05-12T07:00:00+0000",
             "appName": "Instagram",
             "appVersion": "282.0",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/instagram.png",
@@ -70,7 +70,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
-	    "appUpdateTime": "2023-02-12T08:00:00",
+	    "appUpdateTime": "2023-05-12T07:00:00+0000",
             "appName": "BeReal",
             "appVersion": "0.36.3",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/bereal.png",
@@ -81,7 +81,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
-	    "appUpdateTime": "2023-02-12T08:00:00",
+	    "appUpdateTime": "2023-05-12T07:00:00+0000",
             "appName": "Zing MP3",
             "appVersion": "23.01.02",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/zingmp3.png",
@@ -92,7 +92,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
-	    "appUpdateTime": "2023-02-12T08:00:00",
+	    "appUpdateTime": "2023-05-12T07:00:00+0000",
             "appName": "TeraBox",
             "appVersion": "3.8.0",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/terabox.png",
@@ -103,7 +103,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
-	    "appUpdateTime": "2023-02-12T08:00:00",
+	    "appUpdateTime": "2023-05-12T07:00:00+0000",
             "appName": "VeboTV",
             "appVersion": "1.2",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/vebotv.png",
@@ -113,7 +113,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
-	    "appUpdateTime": "2023-02-12T08:00:00",
+	    "appUpdateTime": "2023-05-12T07:00:00+0000",
             "appName": "TiviWatch",
             "appVersion": "1.0",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/tiviwatch.png",
@@ -124,7 +124,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
-	    "appUpdateTime": "2023-02-12T08:00:00",
+	    "appUpdateTime": "2023-05-12T07:00:00+0000",
             "appName": "TiviWatch",
             "appVersion": "1.0",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/tiviwatch.png",
@@ -135,7 +135,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
-	    "appUpdateTime": "2023-02-12T08:00:00",
+	    "appUpdateTime": "2023-05-12T07:00:00+0000",
             "appName": "Speedtest",
             "appVersion": "4.5.1",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/speedtest.png",
@@ -145,7 +145,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
-	    "appUpdateTime": "2023-02-12T08:00:00",
+	    "appUpdateTime": "2023-05-12T07:00:00+0000",
             "appName": "iSTB",
             "appVersion": "1.24.10",
             "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/db/ac/16/dbac1659-c577-8e88-2b0a-7a1f62cd78d4/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
@@ -155,7 +155,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
-	    "appUpdateTime": "2023-02-12T08:00:00",
+	    "appUpdateTime": "2023-05-12T07:00:00+0000",
             "appName": "Procreate",
             "appVersion": "5.3.2",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/procreate.png",
@@ -165,7 +165,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
-	    "appUpdateTime": "2023-02-12T08:00:00",
+	    "appUpdateTime": "2023-05-12T07:00:00+0000",
             "appName": "LumaFusion",
             "appVersion": "4.0.1",
             "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/60/88/d4/6088d4d5-845b-8bee-ff43-7db834575175/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.png",
@@ -175,7 +175,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
-	    "appUpdateTime": "2023-02-12T08:00:00",
+	    "appUpdateTime": "2023-05-12T07:00:00+0000",
             "appName": "Oxford Deluxe (ODE and OTE)",
             "appVersion": "13.2",
             "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e6/4c/7d/e64c7d07-7d1e-3d9f-4f89-139eab72df74/ODEdeluxe-Icons-1x_U007emarketing-0-6-0-85-220.jpeg/512x512bb.png",
@@ -185,7 +185,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
-	    "appUpdateTime": "2023-02-12T08:00:00",
+	    "appUpdateTime": "2023-05-12T07:00:00+0000",
             "appName": "Oxford Learner’s Academic Dict",
             "appVersion": "1.3",
             "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/c5/2a/00/c52a0009-5393-8ee8-77fb-f3a3f4177577/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.png",
@@ -195,7 +195,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 1,
-	    "appUpdateTime": "2023-02-12T08:00:00",
+	    "appUpdateTime": "2023-05-12T07:00:00+0000",
             "appName": "Analog Acoustic",
             "appVersion": "1.0.96",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/analogacoustic.png",
@@ -205,7 +205,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 1,
-	    "appUpdateTime": "2023-02-12T08:00:00",
+	    "appUpdateTime": "2023-05-12T07:00:00+0000",
             "appName": "Analog Beijing",
             "appVersion": "1.0.992",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/analogbeijing.png",
@@ -215,7 +215,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 1,
-	    "appUpdateTime": "2023-02-12T08:00:00",
+	    "appUpdateTime": "2023-05-12T07:00:00+0000",
             "appName": "Analog Brooklyn",
             "appVersion": "1.0.97",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/analogbrooklyn.png",
@@ -225,7 +225,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 1,
-	    "appUpdateTime": "2023-02-12T08:00:00",
+	    "appUpdateTime": "2023-05-12T07:00:00+0000",
             "appName": "Analog Budapest",
             "appVersion": "1.0.992",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/analogjeju.png",
@@ -235,7 +235,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 1,
-	    "appUpdateTime": "2023-02-12T08:00:00",
+	    "appUpdateTime": "2023-05-12T07:00:00+0000",
             "appName": "Analog Jeju",
             "appVersion": "1.0.992",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/analogbudapest.png",
@@ -245,7 +245,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 1,
-	    "appUpdateTime": "2023-02-12T08:00:00",
+	    "appUpdateTime": "2023-05-12T07:00:00+0000",
             "appName": "Analog London",
             "appVersion": "1.0.992",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/analoglondon.png",
@@ -255,7 +255,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 1,
-	    "appUpdateTime": "2023-02-12T08:00:00",
+	    "appUpdateTime": "2023-05-12T07:00:00+0000",
             "appName": "Analog Paris",
             "appVersion": "1.0.992",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/analogparis.png",
@@ -265,7 +265,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 1,
-	    "appUpdateTime": "2023-02-12T08:00:00",
+	    "appUpdateTime": "2023-05-12T07:00:00+0000",
             "appName": "Analog Portland",
             "appVersion": "1.0.992",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/analogportland.png",
@@ -275,7 +275,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 1,
-	    "appUpdateTime": "2023-02-12T08:00:00",
+	    "appUpdateTime": "2023-05-12T07:00:00+0000",
             "appName": "Analog Seoul",
             "appVersion": "1.0.992",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/analogseoul.png",
@@ -285,7 +285,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 1,
-	    "appUpdateTime": "2023-02-12T08:00:00",
+	    "appUpdateTime": "2023-05-12T07:00:00+0000",
             "appName": "Analog Tokyo",
             "appVersion": "1.0.992",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/analogtokyo.png",
@@ -295,7 +295,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 1,
-	    "appUpdateTime": "2023-02-12T08:00:00",
+	    "appUpdateTime": "2023-05-12T07:00:00+0000",
             "appName": "Analog Wedding",
             "appVersion": "1.0.992",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/analogwedding.png",
@@ -305,7 +305,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 1,
-	    "appUpdateTime": "2023-02-12T08:00:00",
+	    "appUpdateTime": "2023-05-12T07:00:00+0000",
             "appName": "OldRoll",
             "appVersion": "4.9",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/oldroll.png",
@@ -315,7 +315,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 1,
-	    "appUpdateTime": "2023-02-12T08:00:00",
+	    "appUpdateTime": "2023-05-12T07:00:00+0000",
             "appName": "Dazz Cam",
             "appVersion": "2.6.2",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/dazzcam.png",
@@ -325,7 +325,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 1,
-	    "appUpdateTime": "2023-02-12T08:00:00",
+	    "appUpdateTime": "2023-05-12T07:00:00+0000",
             "appName": "Prequel",
             "appVersion": "2.34.2",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/prequel.png",
@@ -336,7 +336,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 1,
-	    "appUpdateTime": "2023-02-12T08:00:00",
+	    "appUpdateTime": "2023-05-12T07:00:00+0000",
             "appName": "1998 Cam - Vintage Camera",
             "appVersion": "1.9.3",
             "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/bb/a5/97/bba5978a-b923-223d-dd1f-015c1200a622/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.png",
@@ -346,7 +346,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 2,
-	    "appUpdateTime": "2023-02-12T08:00:00",
+	    "appUpdateTime": "2023-05-12T07:00:00+0000",
             "appName": "Flappy Bird",
             "appVersion": "1.0",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/FlappyBird.png",
@@ -356,7 +356,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 2,
-	    "appUpdateTime": "2023-02-12T08:00:00",
+	    "appUpdateTime": "2023-05-12T07:00:00+0000",
             "appName": "Asphalt 8+",
             "appVersion": "1.6.0",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/asphalt8%2B.png",
@@ -367,7 +367,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 2,
-	    "appUpdateTime": "2023-02-12T08:00:00",
+	    "appUpdateTime": "2023-05-12T07:00:00+0000",
             "appName": "Asphalt 8",
             "appVersion": "7.0.0",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/asphalt8.png",
@@ -378,7 +378,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 2,
-	    "appUpdateTime": "2023-02-12T08:00:00",
+	    "appUpdateTime": "2023-05-12T07:00:00+0000",
             "appName": "GTA Vice City",
             "appVersion": "1.5.6",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/gtavicecity.png",
@@ -389,7 +389,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 2,
-	    "appUpdateTime": "2023-02-12T08:00:00",
+	    "appUpdateTime": "2023-05-12T07:00:00+0000",
             "appName": "SimCity BuildIt",
             "appVersion": "1.46.1",
             "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/4d/b0/5f/4db05f4e-cc92-6f29-1958-36d6ccc5ef2b/AppIcon-1x_U007emarketing-0-7-85-220.png/512x512bb.png",
@@ -400,7 +400,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 2,
-	    "appUpdateTime": "2023-02-12T08:00:00",
+	    "appUpdateTime": "2023-05-12T07:00:00+0000",
             "appName": "Plants vs. Zombies™ 2",
             "appVersion": "10.4.1",
             "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1f/5a/ab/1f5aab34-34bd-7318-403b-d45c4476702e/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.png",
@@ -410,7 +410,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 2,
-	    "appUpdateTime": "2023-02-12T08:00:00",
+	    "appUpdateTime": "2023-05-12T07:00:00+0000",
             "appName": "Angry Bird Transformer",
             "appVersion": "2.19.0",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/AngryBirdTransformer.png",
@@ -421,7 +421,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 2,
-	    "appUpdateTime": "2023-02-12T08:00:00",
+	    "appUpdateTime": "2023-05-12T07:00:00+0000",
             "appName": "Chặt Heo",
             "appVersion": "2.8.6",
             "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/7e/3b/57/7e3b57af-8ec4-ecd0-551c-67e970fb331e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.png",
@@ -432,7 +432,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 3,
-	    "appUpdateTime": "2023-02-12T08:00:00",
+	    "appUpdateTime": "2023-05-12T07:00:00+0000",
             "appName": "Cowabunga",
             "appVersion": "10.1.1",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/cowabunga.png",
@@ -443,7 +443,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 3,
-	    "appUpdateTime": "2023-02-12T08:00:00",
+	    "appUpdateTime": "2023-05-12T07:00:00+0000",
             "appName": "Filza",
             "appVersion": "4.0.0",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/filza.png",
@@ -454,7 +454,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 3,
-	    "appUpdateTime": "2023-02-12T08:00:00",
+	    "appUpdateTime": "2023-05-12T07:00:00+0000",
             "appName": "Proof",
             "appVersion": "1.0",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/proof.png",
