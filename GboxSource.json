@@ -59,7 +59,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
-	    "appUpdateTime": "2023-05-12T07:00:00+0000",
+	    "appUpdateTime": "2023-05-09T07:00:00+0000",
             "appName": "Instagram",
             "appVersion": "282.0",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/instagram.png",
@@ -70,7 +70,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
-	    "appUpdateTime": "2023-05-12T07:00:00+0000",
+	    "appUpdateTime": "2023-04-27T07:00:00+0000",
             "appName": "BeReal",
             "appVersion": "0.36.3",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/bereal.png",
@@ -81,7 +81,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
-	    "appUpdateTime": "2023-05-12T07:00:00+0000",
+	    "appUpdateTime": "2023-01-12T07:00:00+0000",
             "appName": "Zing MP3",
             "appVersion": "23.01.02",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/zingmp3.png",
