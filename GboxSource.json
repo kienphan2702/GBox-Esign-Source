@@ -165,9 +165,9 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
-	    "appUpdateTime": "2023-04-25T07:00:00+0000",
+	    "appUpdateTime": "2023-05-12T07:00:00+0000",
             "appName": "LumaFusion",
-            "appVersion": "4.0.1",
+            "appVersion": "4.0.2",
             "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/60/88/d4/6088d4d5-845b-8bee-ff43-7db834575175/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.png",
             "appPackage": "https://dl.dropboxusercontent.com/s/ltwc6a42aqkpb8d/LumaFusion.ipa?dl=0",
         },
