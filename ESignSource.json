@@ -7,7 +7,7 @@
 	"name": "GBox",
 	"version": "4.3.1",
 	"downloadURL": "https://www.dl.dropboxusercontent.com/s/wdsxxk8z4au8ozk/GBox.ipa?dl=0",
-	"iconURL": "https://gbox.run/Public/appicons/GBox.png",
+	"iconURL": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/gbox.png",
 },
 
 {
@@ -20,10 +20,24 @@
 
 {
 	"name": "ESign",
-	"version": "4.7.5",
-	"downloadURL": "https://www.dl.dropboxusercontent.com/s/5y6mhgo0cm6s82w/ESign%204.7.5.ipa?dl=0",
-	"iconURL": "https://esign.yyyue.xyz/ESignLogo200.png",
-	"versionDescription": "ESign ver 4.7.5"
+	"version": "4.8.1",
+	"downloadURL": "https://dl.dropboxusercontent.com/s/yraymiv8dv954xx/ESign.ipa?dl=0",
+	"iconURL": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/esign.png",
+	"versionDescription": ""
+},
+
+{
+	"name": "TiviWatch",
+	"version": "1.0",
+	"downloadURL": "https://dl.dropboxusercontent.com/s/wp4ejzd0rj84prk/TiviWatch%20%28Auto%29.ipa?dl=0",
+	"iconURL": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/tiviwatch.png",
+},
+
+{
+	"name": "VeboTV",
+	"version": "1.2",
+	"downloadURL": "https://www.dl.dropboxusercontent.com/s/o03yh0m8b8k0txe/VeboTV%201.2.ipa?dl=0",
+	"iconURL": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/vebotv.png",
 },
 
 ]
