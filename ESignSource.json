@@ -12,12 +12,20 @@
 
 {
 	"name": "Messenger",
-	"version": "392.0",
-	"downloadURL": "https://www.dl.dropboxusercontent.com/s/1jj6u0sejvodg85/Messenger%202%20392.0.ipa?dl=0",
+	"version": "401.0",
+	"downloadURL": "https://www.dl.dropboxusercontent.com/s/s16oo1pt1xexhe7/Messenger.ipa?dl=0",
 	"iconURL": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/messenger.png",
 	"versionDescription": "Cài song song, xoá quảng cáo, chặn seen, chặn xem story"
 },
 
+{
+	"name": "Instagram",
+	"version": "282.0",
+	"downloadURL": "https://dl.dropboxusercontent.com/s/fwmvo95u0e10o6y/Instagram.ipa?dl=0",
+	"iconURL": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/instagram.png",
+	"versionDescription": "Rocket 3.8.8"
+},
+		
 {
 	"name": "ESign",
 	"version": "4.8.1",
