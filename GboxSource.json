@@ -316,9 +316,9 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 1,
-	    "appUpdateTime": "2023-05-11T07:00:00+0000",
+	    "appUpdateTime": "2023-05-28T07:00:00+0000",
             "appName": "OldRoll",
-            "appVersion": "4.9",
+            "appVersion": "4.9.1",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/oldroll.png",
             "appPackage": "https://www.dl.dropboxusercontent.com/s/s8wv5d89zvzzolr/OldRoll.ipa?dl=0",
         },
