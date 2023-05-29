@@ -17,7 +17,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
-	    "appUpdateTime": "2023-05-12T07:00:00+0000",
+	    "versionDate": "2023-05-29",
             "appName": "GBox",
             "appVersion": "4.3.1",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/gbox.png",
