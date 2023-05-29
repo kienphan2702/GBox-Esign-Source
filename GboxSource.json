@@ -27,7 +27,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
-	    "appUpdateTime": "2023-05-12T07:00:00+0000",
+	    "appUpdateTime": "2023-05-12",
             "appName": "ESign",
             "appVersion": "4.8.1",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/esign.png",
