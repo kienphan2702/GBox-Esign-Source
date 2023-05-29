@@ -19,6 +19,7 @@
             "appCateIndex": 0,
 	    "versionDate": "2023-05-29",
             "appName": "GBox",
+	    "bundleIdentifier": "se.resenatverket.FlightRadar24-Free",
             "appVersion": "4.3.1",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/gbox.png",
             "appPackage": "https://www.dl.dropboxusercontent.com/s/wdsxxk8z4au8ozk/GBox.ipa?dl=0",
