@@ -114,11 +114,11 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
-	    "appUpdateTime": "2023-02-14T07:00:00+0000",
+	    "appUpdateTime": "2023-05-30T07:00:00+0000",
             "appName": "VeboTV",
             "appVersion": "1.2",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/vebotv.png",
-            "appPackage": "https://www.dl.dropboxusercontent.com/s/o03yh0m8b8k0txe/VeboTV%201.2.ipa?dl=0",
+            "appPackage": "https://dl.dropboxusercontent.com/s/o03yh0m8b8k0txe/VeboTV.ipa?dl=0",
         },
 
         {
