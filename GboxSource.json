@@ -186,6 +186,16 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
+	    "appUpdateTime": "2023-05-31T07:00:00+0000",
+            "appName": "AdGuard VPN",
+            "appVersion": "2.0.10",
+            "appImage": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/25/f6/97/25f69769-74dc-9d97-cf5b-e0d1501d9d42/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.png",
+            "appPackage": "https://dl.dropboxusercontent.com/s/lub50hv420z81rr/AdGuard%20VPN.ipa?dl=0",
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
 	    "appUpdateTime": "2023-03-21T07:00:00+0000",
             "appName": "Oxford Deluxe (ODE and OTE)",
             "appVersion": "13.2",
@@ -316,7 +326,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 1,
-	    "appUpdateTime": "2023-05-28T07:00:00+0000",
+	    "appUpdateTime": "2023-05-31T07:00:00+0000",
             "appName": "ProCam 8",
             "appVersion": "14.0.9",
             "appImage": "https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/a0/e4/2a/a0e42a3f-24e4-618e-1240-502f1b5ac666/AppIcon-2-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.png",
