@@ -317,6 +317,16 @@
             "appType": "SELF_SIGN",
             "appCateIndex": 1,
 	    "appUpdateTime": "2023-05-28T07:00:00+0000",
+            "appName": "ProCam 8",
+            "appVersion": "14.0.9",
+            "appImage": "https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/a0/e4/2a/a0e42a3f-24e4-618e-1240-502f1b5ac666/AppIcon-2-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.png",
+            "appPackage": "https://dl.dropboxusercontent.com/s/yf0d0f2upnkjpxe/ProCam%208.ipa?dl=0",
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+	    "appUpdateTime": "2023-05-28T07:00:00+0000",
             "appName": "OldRoll",
             "appVersion": "4.9.1",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/oldroll.png",
