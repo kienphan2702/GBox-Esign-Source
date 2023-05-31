@@ -464,7 +464,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 3,
-	    "appUpdateTime": "2023-05-12T07:00:00+0000",
+	    "appUpdateTime": "2023-05-31T07:00:00+0000",
             "appName": "Cowabunga",
             "appVersion": "10.3.2",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/cowabunga.png",
