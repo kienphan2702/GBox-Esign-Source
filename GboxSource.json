@@ -59,7 +59,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
-	    "appUpdateTime": "2023-05-09T07:00:00+0000",
+	    "appUpdateTime": "2023-06-03T07:00:00+0000",
             "appName": "Instagram",
             "appVersion": "284.0",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/instagram.png",
@@ -70,7 +70,7 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
-	    "appUpdateTime": "2023-05-09T07:00:00+0000",
+	    "appUpdateTime": "2023-06-03T07:00:00+0000",
             "appName": "Instagram 2 (clone)",
             "appVersion": "284.0",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/instagram.png",
