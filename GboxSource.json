@@ -82,6 +82,17 @@
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
 	    "appUpdateTime": "2023-06-03T07:00:00+0000",
+            "appName": "BHInstagram",
+            "appVersion": "290.1",
+            "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/instagram.png",
+            "appPackage": "https://dl.dropboxusercontent.com/scl/fi/duzluhmjphk8ll9j2lbcc/BHInstagram.ipa?rlkey=h0h8ztgzl9qjvrio85w9nrgkm&dl=0",
+            "appDescription": "BHInstagram"
+        },
+	    
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+	    "appUpdateTime": "2023-06-03T07:00:00+0000",
             "appName": "TikTok",
             "appVersion": "30.3.0",
             "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/20/bb/da/20bbda80-4ef1-9c61-e804-ebac68955185/AppIcon_TikTok-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.png",
