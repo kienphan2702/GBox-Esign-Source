@@ -104,11 +104,11 @@
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
 	    "appUpdateTime": "2023-04-25T07:00:00+0000",
-            "appName": "BeReal",
-            "appVersion": "1.6.0",
+            "appName": "BeReal.",
+            "appVersion": "1.8.1",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/bereal.png",
             "appPackage": "https://dl.dropboxusercontent.com/s/iderrrr5vqjno4j/BeReal.ipa?dl=0",
-            "appDescription": "UnHide BeReal"
+            "appDescription": "Bea 1.3.1"
         },
 
         {
