@@ -48,9 +48,9 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
-	    "appUpdateTime": "2023-05-28T07:00:00+0000",
+	    "appUpdateTime": "2023-09-03T07:00:00+0000",
             "appName": "Messenger",
-            "appVersion": "410.0",
+            "appVersion": "420.0",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/messenger.png",
             "appPackage": "https://www.dl.dropboxusercontent.com/s/s16oo1pt1xexhe7/Messenger.ipa?dl=0",
             "appDescription": "Xoá quảng cáo, chặn seen, chặn xem story"
