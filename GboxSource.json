@@ -59,9 +59,9 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
-	    "appUpdateTime": "2023-06-03T07:00:00+0000",
+	    "appUpdateTime": "2023-09-05T07:00:00+0000",
             "appName": "Instagram",
-            "appVersion": "286.1",
+            "appVersion": "294.0",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/instagram.png",
             "appPackage": "https://dl.dropboxusercontent.com/s/fwmvo95u0e10o6y/Instagram.ipa?dl=0",
             "appDescription": "Rocket 3.8.8"
