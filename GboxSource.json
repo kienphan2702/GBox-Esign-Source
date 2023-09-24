@@ -27,16 +27,6 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
-	    "appUpdateTime": "2023-05-12T07:00:00+0000",
-            "appName": "ESign",
-            "appVersion": "4.8.1",
-            "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/esign.png",
-            "appPackage": "https://dl.dropboxusercontent.com/s/yraymiv8dv954xx/ESign.ipa?dl=0",
-        },
-
-        {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 0,
 	    "appUpdateTime": "2023-03-27T07:00:00+0000",
             "appName": "Facebook",
             "appVersion": "407.1",
@@ -380,16 +370,6 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 1,
-	    "appUpdateTime": "2023-03-21T07:00:00+0000",
-            "appName": "Dazz Cam",
-            "appVersion": "2.6.2",
-            "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/dazzcam.png",
-            "appPackage": "https://dl.dropboxusercontent.com/s/bdue6ry7v27jgjq/DazzCam.ipa?dl=0",
-        },
-
-        {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 1,
 	    "appUpdateTime": "2023-03-07T07:00:00+0000",
             "appName": "Prequel",
             "appVersion": "2.34.2",
@@ -481,17 +461,6 @@
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/AngryBirdTransformer.png",
             "appPackage": "https://www.dl.dropboxusercontent.com/s/7ihav1jms3fjr2v/Angry%20Bird%20Transformer.ipa?dl=0",
             "appDescription": "Large coin & Pig reward after each mission and Large Gems Achievement reward"
-        },
-
-        {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 2,
-	    "appUpdateTime": "2023-05-12T07:00:00+0000",
-            "appName": "Chặt Heo",
-            "appVersion": "2.8.6",
-            "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/7e/3b/57/7e3b57af-8ec4-ecd0-551c-67e970fb331e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.png",
-            "appPackage": "https://dl.dropboxusercontent.com/s/ebnvkcqe6v9ufpb/Ch%E1%BA%B7t%20Heo.ipa?dl=0",
-            "appDescription": "Skip Ads"
         },
 
         {
