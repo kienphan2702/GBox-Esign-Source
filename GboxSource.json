@@ -51,21 +51,10 @@
             "appCateIndex": 0,
 	    "appUpdateTime": "2023-09-05T07:00:00+0000",
             "appName": "Instagram",
-            "appVersion": "294.0",
+            "appVersion": "303.3",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/instagram.png",
             "appPackage": "https://dl.dropboxusercontent.com/s/fwmvo95u0e10o6y/Instagram.ipa?dl=0",
-            "appDescription": "Rocket 3.8.8"
-        },
-
-        {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 0,
-	    "appUpdateTime": "2023-09-16T07:00:00+0000",
-            "appName": "Instagram 2 (clone)",
-            "appVersion": "300.0",
-            "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/instagram.png",
-            "appPackage": "https://dl.dropboxusercontent.com/s/w363a6iucnw22pb/Instagram%202.ipa?dl=0",
-            "appDescription": "Bản dùng song song với app gốc (Rocket 3.8.12)"
+            "appDescription": "Rocket 3.8.15"
         },
 
         {
