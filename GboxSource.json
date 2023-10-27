@@ -18,12 +18,12 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
-	    "appUpdateTime": "2023-03-27T07:00:00+0000",
+	    "appUpdateTime": "2023-10-27T07:00:00+0000",
             "appName": "Facebook",
-            "appVersion": "407.1",
+            "appVersion": "435.2",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/facebook.png",
             "appPackage": "https://www.dl.dropboxusercontent.com/s/rysvktidpb5cpgr/Facebook.ipa?dl=0",
-            "appDescription": "Facebook No Ads"
+            "appDescription": "Facebook Wolf"
         },
 
         {
