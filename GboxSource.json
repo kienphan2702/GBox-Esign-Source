@@ -11,7 +11,7 @@
         "Application",
 	"Camera",
         "Games",
-	"MacDirtyCow"
+	"MDC/KDF"
  ],
     "appRepositories": [	
 
@@ -472,7 +472,7 @@
             "appName": "Filza",
             "appVersion": "4.0.0",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/filza.png",
-            "appPackage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/App/Filza.ipa",
+            "appPackage": "https://dl.dropboxusercontent.com/scl/fi/7o1mksihsj0b1f8l3i2l0/Filza-TrollStore.ipa?rlkey=smxb1ikufe7kibmzxjxjp4366",
             "appDescription": "iOS 14 - iOS 16.1.2 (MacDirtyCow)"
         },
 
