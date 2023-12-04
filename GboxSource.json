@@ -404,54 +404,11 @@
             "appType": "SELF_SIGN",
             "appCateIndex": 2,
 	    "appUpdateTime": "2023-05-12T07:00:00+0000",
-            "appName": "Asphalt 8",
-            "appVersion": "7.0.0",
-            "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/asphalt8.png",
-            "appPackage": "https://www.dl.dropboxusercontent.com/s/xq148p6ui82cmhb/Asphalt%208.ipa?dl=0",
-            "appDescription": "All car unlocked, unlimited nitro"
-        },
-
-        {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 2,
-	    "appUpdateTime": "2023-05-12T07:00:00+0000",
             "appName": "GTA Vice City",
             "appVersion": "1.5.6",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/gtavicecity.png",
             "appPackage": "https://www.dl.dropboxusercontent.com/s/s1x32pj4z2vuf09/GTA%20Vice%20City.ipa?dl=0",
             "appDescription": "Mod Graphic"
-        },
-
-        {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 2,
-	    "appUpdateTime": "2023-05-12T07:00:00+0000",
-            "appName": "SimCity BuildIt",
-            "appVersion": "1.46.1",
-            "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/4d/b0/5f/4db05f4e-cc92-6f29-1958-36d6ccc5ef2b/AppIcon-1x_U007emarketing-0-7-85-220.png/512x512bb.png",
-            "appPackage": "https://www.dl.dropboxusercontent.com/s/7cy5asd0527ooa1/SimCity%20BuildIt.ipa?dl=0",
-            "appDescription": "Coins increase over use"
-        },
-
-        {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 2,
-	    "appUpdateTime": "2023-05-12T07:00:00+0000",
-            "appName": "Plants vs. Zombies™ 2",
-            "appVersion": "10.4.1",
-            "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1f/5a/ab/1f5aab34-34bd-7318-403b-d45c4476702e/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.png",
-            "appPackage": "https://dl.dropboxusercontent.com/s/l47s4jab8xu3qey/Plants%20vs.%20Zombies%202.ipa?dl=0",
-        },
-
-        {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 2,
-	    "appUpdateTime": "2023-05-12T07:00:00+0000",
-            "appName": "Angry Bird Transformer",
-            "appVersion": "2.19.0",
-            "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/AngryBirdTransformer.png",
-            "appPackage": "https://www.dl.dropboxusercontent.com/s/7ihav1jms3fjr2v/Angry%20Bird%20Transformer.ipa?dl=0",
-            "appDescription": "Large coin & Pig reward after each mission and Large Gems Achievement reward"
         },
 
         {
