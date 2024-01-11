@@ -21,7 +21,7 @@
 	    "appUpdateTime": "2023-10-27T07:00:00+0000",
             "appName": "Facebook",
             "appVersion": "435.2",
-            "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/facebook.png",
+            "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e4/27/d7/e427d7e9-6ee5-ab2a-8ed9-93157ea9a9f2/Icon-Production-0-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.png",
             "appPackage": "https://www.dl.dropboxusercontent.com/s/rysvktidpb5cpgr/Facebook.ipa?dl=0",
             "appDescription": "Facebook Wolf"
         },
@@ -32,7 +32,7 @@
 	    "appUpdateTime": "2023-09-24T07:00:00+0000",
             "appName": "Messenger",
             "appVersion": "427.1",
-            "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/messenger.png",
+            "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d1/78/2e/d1782efc-8b4e-01b9-a748-d4b19c254b2f/AppIcon-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/512x512bb.png",
             "appPackage": "https://www.dl.dropboxusercontent.com/s/s16oo1pt1xexhe7/Messenger.ipa?dl=0",
             "appDescription": "Xoá quảng cáo, chặn seen, chặn xem story"
         },
@@ -87,7 +87,7 @@
 	    "appUpdateTime": "2023-08-12T07:00:00+0000",
             "appName": "BeReal.",
             "appVersion": "1.16.1",
-            "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/bereal.png",
+            "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f1/74/ed/f174edab-ec58-3e11-f0ca-b619bbb6bdaa/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.png",
             "appPackage": "https://dl.dropboxusercontent.com/s/iderrrr5vqjno4j/BeReal.ipa?dl=0",
             "appDescription": "Bea 1.3.2"
         },
@@ -98,7 +98,7 @@
 	    "appUpdateTime": "2023-01-10T07:00:00+0000",
             "appName": "Zing MP3",
             "appVersion": "23.01.02",
-            "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/zingmp3.png",
+            "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fe/be/e7/febee7a9-0f12-9288-dd61-5e2583e05afb/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.png",
             "appPackage": "https://www.dl.dropboxusercontent.com/s/ww3x7onte7ltpzw/Zing%20MP3.ipa?dl=0",
             "appDescription": "Mod VIP"
         },
@@ -120,7 +120,7 @@
 	    "appUpdateTime": "2023-05-14T07:00:00+0000",
             "appName": "TeraBox",
             "appVersion": "3.12.0",
-            "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/terabox.png",
+            "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/04/a3/9e/04a39e45-4ae8-2852-37bc-2a8c01010146/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/512x512bb.png",
             "appPackage": "https://www.dl.dropboxusercontent.com/s/7jk1h9m4cq38i1a/TeraBox.ipa?dl=0",
             "appDescription": "Mod PREMIUM"
         },
@@ -133,6 +133,16 @@
             "appVersion": "1.2",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/vebotv.png",
             "appPackage": "https://dl.dropboxusercontent.com/s/o03yh0m8b8k0txe/VeboTV.ipa?dl=0",
+        },
+
+	{
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+	    "appUpdateTime": "2023-05-30T07:00:00+0000",
+            "appName": "SocoLive",
+            "appVersion": "1.0.5",
+            "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/vebotv.png",
+            "appPackage": "https://dl.dropboxusercontent.com/scl/fi/x22lq9z8kco2nbj6zx10x/SocoLive.ipa?rlkey=z52t5zou7wvgxlixn4cwzvenz",
         },
 
         {
