@@ -5,14 +5,14 @@
 
 {
 	"name": "GBox",
-	"version": "4.3.1",
+	"version": "n/a",
 	"downloadURL": "https://www.dl.dropboxusercontent.com/s/wdsxxk8z4au8ozk/GBox.ipa?dl=0",
 	"iconURL": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/gbox.png",
 },
 
 {
 	"name": "Messenger",
-	"version": "401.0",
+	"version": "n/a",
 	"downloadURL": "https://www.dl.dropboxusercontent.com/s/s16oo1pt1xexhe7/Messenger.ipa?dl=0",
 	"iconURL": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/messenger.png",
 	"versionDescription": "Cài song song, xoá quảng cáo, chặn seen, chặn xem story"
@@ -20,16 +20,24 @@
 
 {
 	"name": "Instagram",
-	"version": "282.0",
+	"version": "n/a",
 	"downloadURL": "https://dl.dropboxusercontent.com/s/fwmvo95u0e10o6y/Instagram.ipa?dl=0",
-	"iconURL": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/instagram.png",
-	"versionDescription": "Rocket 3.8.8"
+	"iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c8/25/a0/c825a0ef-0751-4d44-42c8-4bd6efa4d905/Prod-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.png",
+	"versionDescription": "Rocket for Instagram"
+},
+
+{
+	"name": "TikTok",
+	"version": "n/a",
+	"downloadURL": "https://dl.dropboxusercontent.com/s/o03yh0m8b8k0txe/VeboTV.ipa?dl=0",
+	"iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7f/17/e9/7f17e90c-a871-6df9-7a70-dbe30ecd6695/AppIcon_TikTok-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.png",
+	"versionDescription": "BHTikTok Plus"
 },
 		
 {
 	"name": "ESign",
 	"version": "4.8.1",
-	"downloadURL": "https://dl.dropboxusercontent.com/s/yraymiv8dv954xx/ESign.ipa?dl=0",
+	"downloadURL": "https://dl.dropboxusercontent.com/scl/fi/8vpkhmr2h0hj37dz15o7l/ESign-4.8.1.ipa?rlkey=qx8dwoiijswjsb618ya0x0cyr",
 	"iconURL": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/esign.png",
 	"versionDescription": ""
 },
