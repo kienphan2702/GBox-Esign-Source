@@ -173,7 +173,7 @@
 	    "appUpdateTime": "2023-02-14T07:00:00+0000",
             "appName": "Speedtest",
             "appVersion": "4.5.1",
-            "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/speedtest.png",
+            "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/93/c4/aa93c428-e54a-8755-d5d7-0844a3d49962/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.png",
             "appPackage": "https://www.dl.dropboxusercontent.com/s/x3m0866tmnapnoq/Speedtest.ipa?dl=0",
         },
 
@@ -399,6 +399,16 @@
             "appPackage": "https://dl.dropboxusercontent.com/s/c8724ntw7512rrk/1998%20Cam.ipa?dl=0",
         },
 
+{
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+	    "appUpdateTime": "2023-05-12T07:00:00+0000",
+            "appName": "Xingtu",
+            "appVersion": "1.0.0",
+            "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/cf/95/facf95df-ffc5-a39b-1f4d-3037c0684839/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.png",
+            "appPackage": "https://dl.dropboxusercontent.com/scl/fi/l8vgjaptet2v7c7fh1zjh/Xingtu.ipa?rlkey=g6kfmabl4ymatkuxkieo2j77c&st=cdylct69",
+        },
+	    
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 2,
