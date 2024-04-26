@@ -47,17 +47,6 @@
             "appPackage": "https://dl.dropboxusercontent.com/s/fwmvo95u0e10o6y/Instagram.ipa?dl=0",
             "appDescription": "Rocket 3.8.15"
         },
-
-        {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 0,
-	    "appUpdateTime": "2023-06-03T07:00:00+0000",
-            "appName": "BHInstagram",
-            "appVersion": "290.1",
-            "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/instagram.png",
-            "appPackage": "https://dl.dropboxusercontent.com/scl/fi/duzluhmjphk8ll9j2lbcc/BHInstagram.ipa?rlkey=h0h8ztgzl9qjvrio85w9nrgkm&dl=0",
-            "appDescription": "BHInstagram"
-        },
 	    
         {
             "appType": "SELF_SIGN",
@@ -399,7 +388,7 @@
             "appPackage": "https://dl.dropboxusercontent.com/s/c8724ntw7512rrk/1998%20Cam.ipa?dl=0",
         },
 
-{
+	{
             "appType": "SELF_SIGN",
             "appCateIndex": 1,
 	    "appUpdateTime": "2023-05-12T07:00:00+0000",
@@ -407,6 +396,16 @@
             "appVersion": "1.0.0",
             "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/cf/95/facf95df-ffc5-a39b-1f4d-3037c0684839/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.png",
             "appPackage": "https://dl.dropboxusercontent.com/scl/fi/l8vgjaptet2v7c7fh1zjh/Xingtu.ipa?rlkey=g6kfmabl4ymatkuxkieo2j77c&st=cdylct69",
+        },
+
+	{
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+	    "appUpdateTime": "2023-05-12T07:00:00+0000",
+            "appName": "Picsart",
+            "appVersion": "1.0.0",
+            "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/4b/dc/a74bdc13-53f1-fa34-c712-28b0f5daf65b/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.png",
+            "appPackage": "https://dl.dropboxusercontent.com/scl/fi/lkjmvsoimbko3ej6x90d6/PicsArt.ipa?rlkey=s5rnbcwwuwsd67ngb7s8z7p2o&st=gd9mtme5",
         },
 	    
         {
