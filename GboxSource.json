@@ -10,8 +10,7 @@
     "appCategories": [
         "Application",
 	"Camera",
-        "Games",
-	"MDC/KDF"
+        "Games"
  ],
     "appRepositories": [	
 
@@ -450,39 +449,3 @@
             "appPackage": "https://www.dl.dropboxusercontent.com/s/s1x32pj4z2vuf09/GTA%20Vice%20City.ipa?dl=0",
             "appDescription": "Mod Graphic"
         },
-
-        {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 3,
-	    "appUpdateTime": "2023-05-31T07:00:00+0000",
-            "appName": "Cowabunga",
-            "appVersion": "10.3.2",
-            "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/cowabunga.png",
-            "appPackage": "https://github.com/leminlimez/Cowabunga/releases/download/v10.3.2/Cowabunga.ipa",
-            "appDescription": "iOS 14 - iOS 16.1.2 (MacDirtyCow)"
-        },
-
-        {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 3,
-	    "appUpdateTime": "2023-05-12T07:00:00+0000",
-            "appName": "Filza",
-            "appVersion": "4.0.0",
-            "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/filza.png",
-            "appPackage": "https://dl.dropboxusercontent.com/scl/fi/7o1mksihsj0b1f8l3i2l0/Filza-TrollStore.ipa?rlkey=smxb1ikufe7kibmzxjxjp4366",
-            "appDescription": "iOS 14 - iOS 16.1.2 (MacDirtyCow)"
-        },
-
-        {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 3,
-	    "appUpdateTime": "2023-05-12T07:00:00+0000",
-            "appName": "Proof",
-            "appVersion": "1.0",
-            "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/proof.png",
-            "appPackage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/App/Proof.ipa",
-            "appDescription": "iOS 14 - iOS 16.1.2 (MacDirtyCow)"
-        },
-
-    ]
-}
