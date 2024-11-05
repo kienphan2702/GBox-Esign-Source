@@ -117,6 +117,17 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
+	    "appUpdateTime": "2024-11-03T07:00:00+0000",
+            "appName": "CamScanner",
+            "appVersion": "6.75.0",
+            "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/d8/1d/1bd81d4c-0fea-32fd-7f75-0f803340a3b6/AppIconLite-0-1x_U007ephone-0-6-0-0-P3-85-220-0.png/512x512bb.png",
+            "appPackage": "https://dl.dropboxusercontent.com/scl/fi/tyekmyujl3nrv235fskqi/CamScanner.ipa?rlkey=zhmw9nd7sin7uifz94bqc6t0o&st=vbep925w",
+            "appDescription": "GOLD unlocked"
+        },
+	    
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
 	    "appUpdateTime": "2023-05-30T07:00:00+0000",
             "appName": "VeboTV",
             "appVersion": "1.2",
