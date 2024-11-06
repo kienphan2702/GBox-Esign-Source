@@ -10,7 +10,7 @@
     "appCategories": [
         "Application",
 	"Camera",
-        "Games",
+        "Games"
  ],
     "appRepositories": [	
 
@@ -449,3 +449,5 @@
             "appPackage": "https://www.dl.dropboxusercontent.com/s/s1x32pj4z2vuf09/GTA%20Vice%20City.ipa?dl=0",
             "appDescription": "Mod Graphic"
         },
+    ]
+}
