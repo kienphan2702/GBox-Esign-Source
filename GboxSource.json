@@ -30,10 +30,10 @@
             "appCateIndex": 0,
 	    "appUpdateTime": "2023-09-24T07:00:00+0000",
             "appName": "Messenger",
-            "appVersion": "427.1",
+            "appVersion": "n/a",
             "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d1/78/2e/d1782efc-8b4e-01b9-a748-d4b19c254b2f/AppIcon-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/512x512bb.png",
             "appPackage": "https://www.dl.dropboxusercontent.com/s/s16oo1pt1xexhe7/Messenger.ipa?dl=0",
-            "appDescription": "Xoá quảng cáo, chặn seen, chặn xem story"
+            "appDescription": "SNMessenger"
         },
 
         {
@@ -41,10 +41,10 @@
             "appCateIndex": 0,
 	    "appUpdateTime": "2023-09-05T07:00:00+0000",
             "appName": "Instagram",
-            "appVersion": "303.3",
+            "appVersion": "n/a",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/instagram.png",
             "appPackage": "https://dl.dropboxusercontent.com/scl/fi/6z9s2nu0jzzhxcj8gik5f/Instagram.ipa?rlkey=ghh7zlwte5t68fabpvxyymj3o&st=do7h7ril",
-            "appDescription": "Rocket 3.8.15"
+            "appDescription": "Regram"
         },
 	    
         {
