@@ -61,28 +61,6 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
-	    "appUpdateTime": "2023-09-05T07:00:00+0000",
-            "appName": "WhatsApp",
-            "appVersion": "23.21.79",
-            "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/60/eb/b7/60ebb7a8-a872-daf1-4dd3-2d998ff3c0a2/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.png",
-            "appPackage": "https://dl.dropboxusercontent.com/scl/fi/701nza5fkhr7jvr37sln4/WhatsApp.ipa?rlkey=eckjv59eu780h8mrr51cpubv3",
-            "appDescription": "For iPad"
-        },
-
-        {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 0,
-	    "appUpdateTime": "2023-08-12T07:00:00+0000",
-            "appName": "BeReal.",
-            "appVersion": "1.16.1",
-            "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f1/74/ed/f174edab-ec58-3e11-f0ca-b619bbb6bdaa/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.png",
-            "appPackage": "https://dl.dropboxusercontent.com/s/iderrrr5vqjno4j/BeReal.ipa?dl=0",
-            "appDescription": "Bea 1.3.2"
-        },
-
-        {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 0,
 	    "appUpdateTime": "2023-01-10T07:00:00+0000",
             "appName": "Zing MP3",
             "appVersion": "23.01.02",
@@ -111,17 +89,6 @@
             "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/04/a3/9e/04a39e45-4ae8-2852-37bc-2a8c01010146/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/512x512bb.png",
             "appPackage": "https://www.dl.dropboxusercontent.com/s/7jk1h9m4cq38i1a/TeraBox.ipa?dl=0",
             "appDescription": "Mod PREMIUM"
-        },
-
-        {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 0,
-	    "appUpdateTime": "2024-11-03T07:00:00+0000",
-            "appName": "CamScanner",
-            "appVersion": "6.75.0",
-            "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/d8/1d/1bd81d4c-0fea-32fd-7f75-0f803340a3b6/AppIconLite-0-1x_U007ephone-0-6-0-0-P3-85-220-0.png/512x512bb.png",
-            "appPackage": "https://dl.dropboxusercontent.com/scl/fi/tyekmyujl3nrv235fskqi/CamScanner.ipa?rlkey=zhmw9nd7sin7uifz94bqc6t0o&st=vbep925w",
-            "appDescription": "GOLD unlocked"
         },
 	    
         {
@@ -164,77 +131,6 @@
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/tiviwatch.png",
             "appPackage": "https://dl.dropboxusercontent.com/s/wp4ejzd0rj84prk/TiviWatch%20%28Auto%29.ipa?dl=0",
             "appDescription": "Bản tự động chọn link"
-        },
-
-        {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 0,
-	    "appUpdateTime": "2023-02-14T07:00:00+0000",
-            "appName": "Speedtest",
-            "appVersion": "4.5.1",
-            "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/93/c4/aa93c428-e54a-8755-d5d7-0844a3d49962/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.png",
-            "appPackage": "https://www.dl.dropboxusercontent.com/s/x3m0866tmnapnoq/Speedtest.ipa?dl=0",
-        },
-
-        {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 0,
-	    "appUpdateTime": "2023-03-21T07:00:00+0000",
-            "appName": "iSTB",
-            "appVersion": "1.24.10",
-            "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/db/ac/16/dbac1659-c577-8e88-2b0a-7a1f62cd78d4/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
-            "appPackage": "https://dl.dropboxusercontent.com/s/fm3guba63erufqk/iSTB.ipa?dl=0",
-        },
-
-        {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 0,
-	    "appUpdateTime": "2023-05-14T07:00:00+0000",
-            "appName": "Procreate",
-            "appVersion": "5.3.4",
-            "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/procreate.png",
-            "appPackage": "https://dl.dropboxusercontent.com/s/bif07yc8e963r1k/Procreate.ipa?dl=0",
-        },
-
-        {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 0,
-	    "appUpdateTime": "2023-05-12T07:00:00+0000",
-            "appName": "LumaFusion",
-            "appVersion": "4.0.2",
-            "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/60/88/d4/6088d4d5-845b-8bee-ff43-7db834575175/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.png",
-            "appPackage": "https://dl.dropboxusercontent.com/s/ltwc6a42aqkpb8d/LumaFusion.ipa?dl=0",
-        },
-
-        {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 0,
-	    "appUpdateTime": "2023-05-31T07:00:00+0000",
-            "appName": "AdGuard VPN",
-            "appVersion": "2.0.10",
-            "appImage": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/25/f6/97/25f69769-74dc-9d97-cf5b-e0d1501d9d42/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.png",
-            "appPackage": "https://dl.dropboxusercontent.com/s/lub50hv420z81rr/AdGuard%20VPN.ipa?dl=0",
-            "appDescription": "Mod Unlimited"
-        },
-
-        {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 0,
-	    "appUpdateTime": "2023-03-21T07:00:00+0000",
-            "appName": "Oxford Deluxe (ODE and OTE)",
-            "appVersion": "13.2",
-            "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e6/4c/7d/e64c7d07-7d1e-3d9f-4f89-139eab72df74/ODEdeluxe-Icons-1x_U007emarketing-0-6-0-85-220.jpeg/512x512bb.png",
-            "appPackage": "https://dl.dropboxusercontent.com/s/4nxaewguwdpwba0/Oxford%20Deluxe%20%28ODE%20and%20OTE%29.ipa?dl=0",
-        },
-
-        {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 0,
-	    "appUpdateTime": "2023-03-21T07:00:00+0000",
-            "appName": "Oxford Learner’s Academic Dict",
-            "appVersion": "1.3",
-            "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/c5/2a/00/c52a0009-5393-8ee8-77fb-f3a3f4177577/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.png",
-            "appPackage": "https://dl.dropboxusercontent.com/s/q9lfqi79i3fjevw/Oxford%20Learner%E2%80%99s%20Academic%20Dict.ipa?dl=0",
         },
 
         {
@@ -347,58 +243,7 @@
             "appPackage": "https://dl.dropboxusercontent.com/s/y2j3kt5tc6u9mho/Analog%20Wedding.ipa?dl=0",
         },
 
-        {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 1,
-	    "appUpdateTime": "2023-05-31T07:00:00+0000",
-            "appName": "SnapEdit",
-            "appVersion": "n/a",
-            "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/02/73/b50273ab-64ea-ded8-f4e3-9158d2e2872f/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.png",
-            "appPackage": "https://dl.dropboxusercontent.com/scl/fi/wrzdcizbwck1eejqq4zsj/SnapEdit.ipa?rlkey=5c16jrpe5ztp1rq4o6ticuelj",
-        },
-	    
-        {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 1,
-	    "appUpdateTime": "2023-05-31T07:00:00+0000",
-            "appName": "ProCam 8",
-            "appVersion": "14.0.9",
-            "appImage": "https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/a0/e4/2a/a0e42a3f-24e4-618e-1240-502f1b5ac666/AppIcon-2-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.png",
-            "appPackage": "https://dl.dropboxusercontent.com/s/yf0d0f2upnkjpxe/ProCam%208.ipa?dl=0",
-        },
-
-        {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 1,
-	    "appUpdateTime": "2023-05-28T07:00:00+0000",
-            "appName": "OldRoll",
-            "appVersion": "5.1",
-            "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/oldroll.png",
-            "appPackage": "https://www.dl.dropboxusercontent.com/s/s8wv5d89zvzzolr/OldRoll.ipa?dl=0",
-        },
-
-        {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 1,
-	    "appUpdateTime": "2023-03-07T07:00:00+0000",
-            "appName": "Prequel",
-            "appVersion": "2.34.2",
-            "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/prequel.png",
-            "appPackage": "https://www.dl.dropboxusercontent.com/s/poljzq3a1p1vpll/Prequel.ipa?dl=0",
-	    "appDescription": "Bấm mua xong bấm huỷ"	
-        },
-
-        {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 1,
-	    "appUpdateTime": "2023-05-12T07:00:00+0000",
-            "appName": "1998 Cam - Vintage Camera",
-            "appVersion": "1.9.3",
-            "appImage": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/bb/a5/97/bba5978a-b923-223d-dd1f-015c1200a622/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.png",
-            "appPackage": "https://dl.dropboxusercontent.com/s/c8724ntw7512rrk/1998%20Cam.ipa?dl=0",
-        },
-
-	{
+		{
             "appType": "SELF_SIGN",
             "appCateIndex": 1,
 	    "appUpdateTime": "2023-05-12T07:00:00+0000",
@@ -406,16 +251,6 @@
             "appVersion": "1.0.0",
             "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/cf/95/facf95df-ffc5-a39b-1f4d-3037c0684839/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.png",
             "appPackage": "https://dl.dropboxusercontent.com/scl/fi/l8vgjaptet2v7c7fh1zjh/Xingtu.ipa?rlkey=g6kfmabl4ymatkuxkieo2j77c&st=cdylct69",
-        },
-
-	{
-            "appType": "SELF_SIGN",
-            "appCateIndex": 1,
-	    "appUpdateTime": "2023-05-12T07:00:00+0000",
-            "appName": "Picsart",
-            "appVersion": "1.0.0",
-            "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/4b/dc/a74bdc13-53f1-fa34-c712-28b0f5daf65b/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.png",
-            "appPackage": "https://dl.dropboxusercontent.com/scl/fi/lkjmvsoimbko3ej6x90d6/PicsArt.ipa?rlkey=s5rnbcwwuwsd67ngb7s8z7p2o&st=gd9mtme5",
         },
 	    
         {
@@ -426,28 +261,6 @@
             "appVersion": "1.0",
             "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/FlappyBird.png",
             "appPackage": "https://www.dl.dropboxusercontent.com/s/5fet11sf8y6555p/FlappyBird.ipa?dl=0",
-        },
-
-        {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 2,
-	    "appUpdateTime": "2023-05-12T07:00:00+0000",
-            "appName": "Asphalt 8+",
-            "appVersion": "1.6.0",
-            "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/asphalt8%2B.png",
-            "appPackage": "https://www.dl.dropboxusercontent.com/s/20ti8psmxhuns6q/Asphalt%208%2B.ipa?dl=0",
-            "appDescription": "Ngắt mạng trước khi vào game"
-        },
-
-        {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 2,
-	    "appUpdateTime": "2023-05-12T07:00:00+0000",
-            "appName": "GTA Vice City",
-            "appVersion": "1.5.6",
-            "appImage": "https://raw.githubusercontent.com/kienphan2702/GBox-Esign-Source/main/Icon/gtavicecity.png",
-            "appPackage": "https://www.dl.dropboxusercontent.com/s/s1x32pj4z2vuf09/GTA%20Vice%20City.ipa?dl=0",
-            "appDescription": "Mod Graphic"
         },
     ]
 }
