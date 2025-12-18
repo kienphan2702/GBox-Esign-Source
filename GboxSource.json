@@ -273,6 +273,16 @@
             "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/cf/95/facf95df-ffc5-a39b-1f4d-3037c0684839/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.png",
             "appPackage": "https://dl.dropboxusercontent.com/scl/fi/l8vgjaptet2v7c7fh1zjh/Xingtu.ipa?rlkey=g6kfmabl4ymatkuxkieo2j77c&st=cdylct69",
         },
+
+		{
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+	    "appUpdateTime": "2025-12-18T07:00:00+0000",
+            "appName": "Meitu`",
+            "appVersion": "1.0.0",
+            "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/82/13/0282137c-843a-1c9f-8cb7-6dea812aed91/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/512x512bb.png",
+            "appPackage": "https://dl.dropboxusercontent.com/scl/fi/btf7m1lzrg5pxkris22r8/Meitu.ipa?rlkey=6buhleg03n4zjnvgnx2ghtwlg&st=i2mi8op8",
+        },
 	    
         {
             "appType": "SELF_SIGN",
